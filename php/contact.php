@@ -36,7 +36,7 @@ if(!empty($_POST)) {
     $confirmation = "Ton message a bien été envoyé, on te recontacte bientôt!";
 
     $subject = "Nouveau message de " . $email;
-    $contentEmail = "auteur: " . $renom . " " . $nom . ", email: " . $email . ", contenu :";
+    $contentEmail = "auteur: " . $prenom . " " . $nom . ", email: " . $email . ", contenu :";
     $contentEmail .= $message;
     mail("h.naim@outlook.fr", $subject, $contentEmail);
 

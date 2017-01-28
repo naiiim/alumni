@@ -1,0 +1,61 @@
+h3 {
+  text-align: center;
+  font-family: 'RobotoSlab-Regular', Arial, serif;
+  color: #D24D57;
+  margin-bottom: 60px;
+}
+
+
+/* Forulaire de Contact */
+
+.saisie-nom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+input {
+  font-family: 'RobotoSlab-Regular', Arial, serif;
+  width: 200px;
+  height: 40px;
+  margin: 0px 10px 20px 10px;
+  padding-left: 10px;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+}
+textarea {
+  font-family: 'RobotoSlab-Regular', Arial, serif;
+  width: 650px;
+  height: 130px;
+  padding: 10px 0px 0px 10px;
+}
+::-webkit-input-placeholder {
+  color: #e87637;
+}
+
+.bouton input{
+  display: block;
+	margin: auto;
+  text-align: center;
+  width: 100px;
+	height: 50px;
+	background-color: #D24D57;
+	border-radius: 7px;
+	border: 0px;
+	box-shadow: 0px 4px 0px #9d353d;
+	color: #fff;
+	font-size: 1.1em;
+}
+.bouton input:hover {
+	border: 0px;
+	box-shadow: 0px 4px 0px #b95924;
+	background-color: #e87637;
+}
+
+.bouton input:active {
+	border: 0px;
+	box-shadow: 0px 1px 0px #b95924;
+	background-color: #e87637;
+}

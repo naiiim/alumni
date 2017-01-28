@@ -50,7 +50,7 @@ if(!empty($_POST)) {
     <meta charset="utf-8" />
     <link rel="stylesheet" href="../css/normalize.css" />
     <link rel="stylesheet" href="../css/font.css" />
-    <title>Contactez-nous - Naïm Alumni</title>
+    <title>Contactez-nous - #webdev{height:0.1em}</title>
   </head>
   <body>
     <?php

@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="../css/normalize.css" />
     <link rel="stylesheet" href="../css/font.css" />
-    <title>Naïm Alumni</title>
+    <title>Accueil - #webdev{height:0.1em}</title>
   </head>
   <body>
 

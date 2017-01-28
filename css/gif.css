@@ -1,0 +1,19 @@
+.gif {
+	margin: auto;
+  margin-top: 30px;
+  padding: 20px;
+  border-bottom: 1px solid #c1bdbd;
+}
+#citation {
+	font-family: 'RobotoSlab-Thin', Arial, Serif;
+	font-style: italic;
+	font-size: .8em;
+	text-align: center;
+	color: #8c8c8c
+}
+#gif {
+  display: block;
+  border: 2px #d24d57 solid;
+  border-radius: 2%;
+  margin: auto;
+}

@@ -1,0 +1,17 @@
+
+#footer {
+	background-color: #D24D57;
+	margin: auto;
+	margin-top: 50px;
+}
+#footer p, a {
+	padding: 25px 0px 40px;
+	font-family: 'RobotoSlab-Light', Arial, serif;
+ 	text-align: center;
+	color: #FFF;
+}
+
+#footer a:hover {
+  text-decoration: none;
+  color: #fb8627;
+}

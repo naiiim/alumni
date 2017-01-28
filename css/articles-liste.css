@@ -1,0 +1,21 @@
+.articles {
+font-family: 'RobotoSlab-Light', Arial, serif;
+margin: auto;
+width: 500px
+}
+h3 {
+	font-family: 'RobotoSlab-Regular', Arial, serif;
+	text-align: center;
+}
+.liste-jours {
+	margin-left: 80px;
+	list-style-type: circle;
+}
+.liste-jours a {
+	text-decoration: none;
+	color: #428fd6;
+}
+.liste-jours a:hover {
+	text-decoration: underline;
+	color: #D24D57;
+}

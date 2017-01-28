@@ -14,3 +14,4 @@ include '../html/gif.html';
 include '../html/articles-liste.html';
 include '../html/footer.html';
 ?>
+</html>

@@ -38,7 +38,7 @@ if (empty($error)) {
 
 ?>
 
-<link rel="stylesheet" href="../css/contact.css" />
+<link rel="stylesheet" href="../elements/css/contact.css" />
 <h3>Une question ? Une remarque ? Écrivez-nous !</h3>
 
 <form id="" action="" method="POST">

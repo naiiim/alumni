@@ -8,9 +8,9 @@
   <body>
 
 <?php
-include '../html/header.html';
-include '../html/gif.html';
-include '../html/articles-liste.html';
-include '../html/footer.html';
+include '../elements/html/header.html';
+include '../elements/html/gif.html';
+include '../elements/html/articles-liste.html';
+include '../elements/html/footer.html';
 ?>
 </html>
